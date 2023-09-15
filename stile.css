@@ -1,5 +1,12 @@
+body { 
+     background-color: darkblue;
+}
+
+
+
 h1 {
     color: rgb(20, 87, 231);
     font-size: 50px;
     text-align: center;
+    text-transform: uppercase;
 }
